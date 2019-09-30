@@ -5,11 +5,11 @@ The user can carpool with others based on several factors given by the back end 
 
 	
 ## Technologies
-Project is created with:
-$ bcrypt==3.1.7
-$ Django==1.10
-$ geocoder==1.38.1
-$ smartystreets-python-sdk==4.3.0
+Project is created with:\
+bcrypt==3.1.7\
+Django==1.10\
+geocoder==1.38.1\
+smartystreets-python-sdk==4.3.0
 
 ## Contributing
 
