@@ -11,6 +11,30 @@ Django==1.10\
 geocoder==1.38.1\
 smartystreets-python-sdk==4.3.0
 
+## Development
+   	# Clone the repository
+	
+	# Install Django Virtual Environment
+		virtualenv -p python3 djangoPy3Env
+		
+	# Activate Django Virtual Environment
+		source djangoPy3Env/bin/activate
+		
+	# Install Django 
+		pip install Django==1.10
+		
+    	# Change into project directory
+    		cd <project_name>
+    
+    	# Make virtual environment
+    		mkvirtualenv <project_name>
+    
+    	# Install requirements
+    		pip install -r requirements.txt
+    
+    	# Start the development server
+    		python manage.py runserver
+    
 ## Contributing
 
 I love contributions, so please feel free to fix bugs, improve things, provide documentation. Just send a pull request.
